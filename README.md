@@ -17,61 +17,49 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 
 ### HTML
----
 
 ---
 
 ### CSS
----
 
 ---
 
-### JavaScript 
----
+### JavaScript
 
 ---
 
 ### ES6
----
 
 ---
 
 ### TypeScript
----
 
 ---
 
 ### React.js
----
 
 ---
 
 ### Node.js
----
 
 ---
 
 ### Databases
----
 
 ---
 
 ### Apollo GraphQL
----
 
 ---
 
 ### Message Brokers
----
 
 ---
 
 ### Coding Standards
----
 
 ---
 
 ### Knowledge Base
----
 
 ---

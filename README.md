@@ -19,7 +19,6 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### HTML
 
----
 
 ### CSS
 

@@ -15,6 +15,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. **[Coding Standards](#coding-standards)**
 1. **[Knowledge Base](#knowledge-base)**
 
+------------
 
 ### HTML
 
@@ -22,44 +23,32 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### CSS
 
----
 
 ### JavaScript
 
----
 
 ### ES6
 
----
 
 ### TypeScript
 
----
 
 ### React.js
 
----
 
 ### Node.js
 
----
 
 ### Databases
 
----
 
 ### Apollo GraphQL
 
----
 
 ### Message Brokers
 
----
 
 ### Coding Standards
 
----
 
 ### Knowledge Base
-
----

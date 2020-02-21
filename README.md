@@ -7,8 +7,8 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. **[JavaScript](#javascript)**
 1. **[ES6](#es6)**
 1. **[TypeScript](#typescript)**
-1. **[React.js](#react.js)**
-1. **[Node.js](#node.js)**
+1. **[React.js](#reactjs)**
+1. **[Node.js](#nodejs)**
 1. **[Databases](#databases)**
 1. **[Apollo GraphQL](#apollo-graphql)**
 1. **[Message Brokers](#message-brokers)**

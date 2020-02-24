@@ -25,17 +25,17 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### JavaScript
 1. [https://javascript.info/](https://javascript.info/)
-2. [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
+1. [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 
 ### ES6
 1. [https://www.tutorialspoint.com/es6/](https://www.tutorialspoint.com/es6/)
-2. Features - [http://es6-features.org/](http://es6-features.org/)
+1. Features - [http://es6-features.org/](http://es6-features.org/)
 
 ### TypeScript
 1. [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 ### React.js
-1. Concepts to understand - [https://reactjs.org/](https://reactjs.org/docs/getting-started.html)
+1. **Basic Concepts** - [https://reactjs.org/](https://reactjs.org/docs/getting-started.html)
 	1. Components
 	1. Code Splitting
 	1. Lazy Loading
@@ -56,18 +56,24 @@ Hello! I've created this list to help you to get started with JavaScript develop
 			3. BEM (Block, Element, and Modifiers) - [http://getbem.com/introduction/](http://getbem.com/introduction/)
 			4. Styled Component >> NPM Package - [https://styled-components.com/docs](https://styled-components.com/docs)
 
-
+1. **Useful React UI Components**
+	1. Story Book (Build bulletproof UI components faster) - [https://storybook.js.org/](https://storybook.js.org/)
+	1. Blueprint.js React UI Components - [https://blueprintjs.com/docs/](https://blueprintjs.com/docs/)
+	1. Reflexbox - [https://rebassjs.org/reflexbox/](https://rebassjs.org/reflexbox/)
+	1. Atlas Kit Dynamic Table - [https://atlaskit.atlassian.com/packages/core/dynamic-table](https://atlaskit.atlassian.com/packages/core/dynamic-table)
+	1. Spreadsheets - [https://handsontable.com/](https://handsontable.com/)
+	1. Nivo Charts - [https://nivo.rocks/area-bump/](https://nivo.rocks/area-bump/)
 
 ### Node.js
 1. **Express.js** -  [https://expressjs.com/](https://expressjs.com/) >> Select Guide Menu
 	1. Introduction
-	1. API standards
+	1. API Standards
 	1. Controllers
 	1. Middlewares
 	1. Error Handlers
 	1. HATEOAS (Hypermedia As The Engine Of Application State) - [https://restfulapi.net/hateoas/](https://restfulapi.net/hateoas/)
 
-9. **Nest.js** - [https://docs.nestjs.com/](https://docs.nestjs.com/)
+1. **Nest.js** - [https://docs.nestjs.com/](https://docs.nestjs.com/)
 	1. Controllers
 	1. Providers
 	1. Modules
@@ -79,7 +85,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 	1. Decorators
 	1. Swagger
 
-21. **Useful Libraries with NPM Links**
+1. **Useful Libraries with NPM Links**
 	1. CORS (Cross Origin Resource Sharing) - [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
 	1. Morgan - [https://www.npmjs.com/package/morgan](https://www.npmjs.com/package/morgan)
 	1. Body Parser - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
@@ -93,14 +99,23 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### Databases
 1. MongoDB - [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
+1. MySQL - [https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)
+1. MSSQL - [https://www.sqlservertutorial.net/](https://www.sqlservertutorial.net/)
 
 ### Apollo GraphQL
-1. [https://www.apollographql.com/docs/tutorial/introduction/](https://www.apollographql.com/docs/tutorial/introduction/)
+1. Full-Stack Developer Tutorial - [https://www.apollographql.com/docs/tutorial/introduction/](https://www.apollographql.com/docs/tutorial/introduction/)
 
 ### Message Brokers
 1. RabbitMQ - [https://www.rabbitmq.com/](https://www.rabbitmq.com/)
 
 ### Coding Standards
-
+1. Clean Coding - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+1. The Twelve-Factor App Methodology - [https://12factor.net/](https://12factor.net/)
+1. S.O.L.I.D. Principles - [https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ### Knowledge Base
+1. Monolithic & Microservice Structures - [https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
+	1. Uses
+	1. Pros & Cons.
+1. Concepts of ABAC and RBAC - [ABAC](https://en.wikipedia.org/wiki/Attribute-based_access_control) / [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control "RBAC")
+1. Difference Between **Library** and **Framework** - [https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/](https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/)

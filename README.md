@@ -13,8 +13,6 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. **[Databases](#databases)**
 1. **[Apollo GraphQL](#apollo-graphql)**
 1. **[Message Brokers](#message-brokers)**
-1. **[Version Control](#version-control)**
-1. **[Web Dev Tools](#web-dev-tools)**
 1. **[Coding Standards](#coding-standards)**
 1. **[Knowledge Base](#knowledge-base)**
 
@@ -23,11 +21,15 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. IDE (Integrated Development Environment)
 	1. VS Code [https://code.visualstudio.com/](https://code.visualstudio.com/)
 	1. Sublime Text [https://www.sublimetext.com/](https://www.sublimetext.com/)
+1. Version Control
+	1. GitHub - [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 1. Concept of Web Server - [https://en.wikipedia.org/wiki/Web_server](https://en.wikipedia.org/wiki/Web_server)
 1. You can simply find out video tutorials for the below web servers:
 	1. XAMPP/WAMP/LAMP
 	1. IIS (Internet Information Services)
 	1. Nginx
+1. Web Dev Tools
+	1. Ngrok (Expose a local web server to the internet)- [https://ngrok.com/docs](https://ngrok.com/docs)
 
 ### HTML
 1. [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
@@ -119,12 +121,6 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### Message Brokers
 1. RabbitMQ - [https://www.rabbitmq.com/](https://www.rabbitmq.com/)
-
-### Version Control
-1. GitHub - [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
-
-### Web Dev Tools
-1. Ngrok (Expose a local web server to the internet)- [https://ngrok.com/docs](https://ngrok.com/docs)
 
 ### Coding Standards
 1. Clean Coding - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)

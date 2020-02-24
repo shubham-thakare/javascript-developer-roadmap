@@ -120,7 +120,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 ### Version Control
 1. GitHub - [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
-### Useful Tools
+### Web Dev Tools
 1. Ngrok (Expose a local web server to the internet)- [https://ngrok.com/docs](https://ngrok.com/docs)
 
 ### Coding Standards

@@ -114,8 +114,8 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. S.O.L.I.D. Principles - [https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ### Knowledge Base
-1. Monolithic & Microservice Structures - [https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
+1. Monolithic & Microservice Structures - [https://articles.microservices.com/](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
 	1. Uses
 	1. Pros & Cons.
 1. Concepts of ABAC and RBAC - [ABAC](https://en.wikipedia.org/wiki/Attribute-based_access_control) / [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control "RBAC")
-1. Difference Between **Library** and **Framework** - [https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/](https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/)
+1. Difference Between **Library** and **Framework** - [https://www.programcreek.com/](https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/)

@@ -121,4 +121,4 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. Difference Between **Library** and **Framework** - [https://www.programcreek.com/](https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/)
 
 
-***If you also have some good stuff to contribute here, then please do comment.***
+***You also have some good stuff to contribute? please leave a comment for us.***

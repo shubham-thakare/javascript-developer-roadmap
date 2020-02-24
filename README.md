@@ -1,4 +1,4 @@
-# JavaScript Developer Road Map
+# Full-Stack JavaScript Developer Road Map
 Hello! I've created this list to help you to get started with JavaScript development. The list below contains a collection of links that have helped me out along the way (and can hopefully help you). I've mostly focused on ***Web Development Technologies***.
 
 ## Table of Contents

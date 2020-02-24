@@ -14,7 +14,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. **[Apollo GraphQL](#apollo-graphql)**
 1. **[Message Brokers](#message-brokers)**
 1. **[Version Control](#version-control)**
-1. **[Useful Tools](#useful-tools)**
+1. **[Web Dev Tools](#web-dev-tools)**
 1. **[Coding Standards](#coding-standards)**
 1. **[Knowledge Base](#knowledge-base)**
 

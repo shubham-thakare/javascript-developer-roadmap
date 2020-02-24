@@ -54,13 +54,13 @@ Hello! I've created this list to help you to get started with JavaScript develop
 			1. Atomic UX Design - [https://atomicdesign.bradfrost.com/chapter-2/](https://atomicdesign.bradfrost.com/chapter-2/)
 			2. SASS/SCSS/LESS - [SASS](https://sass-lang.com/documentation) / [LESS](http://lesscss.org/features/)
 			3. BEM (Block, Element, and Modifiers) - [http://getbem.com/introduction/](http://getbem.com/introduction/)
-			4. Styled Component >> NPM Package - [https://styled-components.com/docs](https://styled-components.com/docs)
+			4. Styled Component >> NPM Package - [https://styled-components.com/docs/](https://styled-components.com/docs)
 
 1. **Useful React UI Components**
 	1. Story Book (Build bulletproof UI components faster) - [https://storybook.js.org/](https://storybook.js.org/)
 	1. Blueprint.js React UI Components - [https://blueprintjs.com/docs/](https://blueprintjs.com/docs/)
 	1. Reflexbox - [https://rebassjs.org/reflexbox/](https://rebassjs.org/reflexbox/)
-	1. Atlas Kit Dynamic Table - [https://atlaskit.atlassian.com/packages/core/dynamic-table](https://atlaskit.atlassian.com/packages/core/dynamic-table)
+	1. Atlas Kit Dynamic Table - [https://atlaskit.atlassian.com/packages/core/dynamic-table/](https://atlaskit.atlassian.com/packages/core/dynamic-table)
 	1. Spreadsheets - [https://handsontable.com/](https://handsontable.com/)
 	1. Nivo Charts - [https://nivo.rocks/area-bump/](https://nivo.rocks/area-bump/)
 
@@ -111,7 +111,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 ### Coding Standards
 1. Clean Coding - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 1. The Twelve-Factor App Methodology - [https://12factor.net/](https://12factor.net/)
-1. S.O.L.I.D. Principles - [https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+1. S.O.L.I.D. Principles - [https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design/](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ### Knowledge Base
 1. Monolithic & Microservice Structures - [https://articles.microservices.com/](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)

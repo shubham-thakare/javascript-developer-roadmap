@@ -30,6 +30,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 	1. Nginx
 1. Web Dev Tools
 	1. Ngrok (Expose a local web server to the internet)- [https://ngrok.com/docs](https://ngrok.com/docs)
+	1. Postman - [https://learning.postman.com/docs/postman/launching-postman/introduction/](https://learning.postman.com/docs/postman/launching-postman/introduction/)
 
 ### HTML
 1. [https://www.w3schools.com/html/](https://www.w3schools.com/html/)

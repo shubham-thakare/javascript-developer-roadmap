@@ -40,7 +40,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### JavaScript
 1. [https://javascript.info/](https://javascript.info/)
-1. [https://www.learn-js.org/](https://www.learn-js.org/) : Learn JS along with step by step excercise. 
+1. [https://www.learn-js.org/](https://www.learn-js.org/)
 1. [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 
 ### ES6

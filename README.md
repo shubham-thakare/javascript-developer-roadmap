@@ -122,7 +122,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 
 ### Git and Github
 1. Official GIT Documentation - [https://git-scm.com/docs](https://git-scm.com/docs)
-2. git cheat sheet - [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+2. Git Cheat Sheet - [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Databases
 1. MongoDB - [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)

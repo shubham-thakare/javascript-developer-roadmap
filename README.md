@@ -10,7 +10,7 @@ Hello! I've created this list to help you to get started with JavaScript develop
 1. **[TypeScript](#typescript)**
 1. **[React.js](#reactjs)**
 1. **[Node.js](#nodejs)**
-2. **[GIT](#git)**
+2. **[Git](#git-and-github)**
 3. **[Databases](#databases)**
 4. **[Apollo GraphQL](#apollo-graphql)**
 5. **[Message Brokers](#message-brokers)**
@@ -119,9 +119,11 @@ Hello! I've created this list to help you to get started with JavaScript develop
 	1. Dotenv - [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
 	1. PM2 - [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
 	1. Axios - [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
-###Git and Github
+
+### Git and Github
 1. Official GIT Documentation - [https://git-scm.com/docs](https://git-scm.com/docs)
 2. git cheat sheet - [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ### Databases
 1. MongoDB - [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
 1. MySQL - [https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)

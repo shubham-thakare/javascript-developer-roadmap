@@ -1,5 +1,5 @@
 # Full-Stack JavaScript Developer Roadmap
-Hello! I've created this list to help you to get started with JavaScript development. The list below contains a collection of links that have helped me out along the way (and can hopefully help you).
+Hello! This list was made by me to assist you in beginning JavaScript development. Links that have been helpful to me along the way are listed in the list below (and can hopefully help you).
 
 ## Table of Contents
 1. **[Basic Concepts](#basic-concepts)**
